@@ -14,9 +14,9 @@ perMd, MedAir, BiHealth, Telematics, Wirelessly
 5. Allow for translators to connect on app.
 ### Current Problems
 During the current pandemic, Black people, Latinos, and Native-Americans have more coronavirus cases but are not getting adequate testing.
-> https://www.npr.org/sections/health-shots/2020/05/30/865413079/what-do-coronavirus-racial-disparities-look-like-state-by-state
 How do we make sure that Blacks and Latinos are able to get adequate testing and diagnosis while using the app?
 According to the article, deaths and cases are disproportionately affecting African Americans in most states.
+> https://www.npr.org/sections/health-shots/2020/05/30/865413079/what-do-coronavirus-racial-disparities-look-like-state-by-state
 **Things to Consider:**
 - This is the result of pre-pandemic realities. Many of them do not have the means to afford health insurance, and are at a higher risk for being exposed to the virus.
 - Residing in places that are not near any clinics, and might have trouble commuting to receive prescription (home delivery?).
